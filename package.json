@@ -1,0 +1,28 @@
+{
+  "name": "remote-control-smarttv",
+  "version": "1.0.0",
+  "description": "Node.js api to control smart tvs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuinaCosta/remote-control-smarttv.git"
+  },
+  "keywords": [
+    "node",
+    "smarttv",
+    "samsung",
+    "remotecontroller"
+  ],
+  "author": "Guina Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuinaCosta/remote-control-smarttv/issues"
+  },
+  "homepage": "https://github.com/GuinaCosta/remote-control-smarttv#readme",
+  "dependencies": {
+    "samsung-remote": "^1.2.5"
+  }
+}
